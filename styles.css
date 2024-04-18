@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+
+input {
+  margin: 0.4vw;
+}
+
+select {
+  width: 8vw;
+}
